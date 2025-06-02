@@ -43,6 +43,10 @@ Validation will be conducted through a small-scale observational study at the Un
 - Stress-scoring models 
 ---
 
+---
+## Possible Health Questionnaires
+![Questionnaire Mindmap](sketches/PossibleQuestionnairesMindmap.png)
+
 ##  Collaborations & Support
 
 This project is made possible by support from:
